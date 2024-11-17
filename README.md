@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nalmojel
 - 👀 I’m interested in art and ai!
 - 🌱 I’m currently learning software engineering with an ai track
-- 💞️ I’m looking to collaborate on cool projects with python or java++
+- 💞️ I’m looking to collaborate on fun and intresting projects in python or java++ languages
 - 📫 How to reach me nalmojel.ai@gmail.com
 
 <!---
